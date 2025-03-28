@@ -1,9 +1,9 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/[id]/page": "app/[id]/page.js",
-  "/kurv/page": "app/kurv/page.js",
   "/checkud/page": "app/checkud/page.js",
   "/page": "app/page.js",
-  "/tak/page": "app/tak/page.js"
+  "/kurv/page": "app/kurv/page.js",
+  "/tak/page": "app/tak/page.js",
+  "/[id]/page": "app/[id]/page.js"
 }

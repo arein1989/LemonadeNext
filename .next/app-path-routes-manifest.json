@@ -1,9 +1,9 @@
 {
   "/_not-found/page": "/_not-found",
   "/favicon.ico/route": "/favicon.ico",
-  "/[id]/page": "/[id]",
-  "/kurv/page": "/kurv",
   "/checkud/page": "/checkud",
   "/page": "/",
-  "/tak/page": "/tak"
+  "/kurv/page": "/kurv",
+  "/tak/page": "/tak",
+  "/[id]/page": "/[id]"
 }
