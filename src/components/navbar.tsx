@@ -5,7 +5,7 @@ import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import "bulma/css/bulma.min.css";
-import logo from "../../public/LemonadeStandLogo.png";
+import logo from "../../public/LemonadestandLogo.png";
 
 const Navbar = () => {
   const [isActive, setIsActive] = useState(false);
