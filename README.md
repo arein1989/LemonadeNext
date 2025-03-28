@@ -1,11 +1,14 @@
 # Lemonade-Next
 
-Beskrivelse Dette er mini lemonade webshop. Webshopen er bygget med Next.js 15 og typescript og bulma css frameworks.
+Beskrivelse:
+Dette er mini lemonade webshop. Webshopen er bygget med Next.js 15 og typescript og bulma css frameworks.
 
-værktøjer Next.js 15 Bulma CSS Framework Typescript
+værktøjer:
+Next.js 15 Bulma CSS Framework Typescript
 
-Installation For at køre dette projekt lokalt, skal du følge disse trin: git clone https://github.com/arein1989/Lemonade-Next/
-Naviger til mappen: cd arein1989/Lemonade-Next/
+Installation:
+For at køre dette projekt lokalt, skal du følge disse trin: git clone https://github.com/arein1989/LemonadeNext/
+Naviger til mappen: cd arein1989/LemonadeNext/
 
 npm install npm run dev
 
